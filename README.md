@@ -29,11 +29,6 @@ MIRA VITSAS
 - [Github](https://github.com/miravit)
 - [LinkedIn](https://www.linkedin.com/in/miravitsas/)
 
-MALIN ÅHLIN
-
-- [Github](https://github.com/Malinaahlin)
-- [LinkedIn](https://www.linkedin.com/in/malin-aahlin/)
-
 ## GETTING STARTED
 
 1.  Clone this repo and open in a code editor
