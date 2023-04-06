@@ -33,7 +33,7 @@ MIRA VITSAS
 
 1.  Clone this repo and open in a code editor
 
-        git clone https://github.com/Malinaahlin/API-group-assignent.git
+        git clone https://github.com/miravit/SQL-API-review-site.git
 
 2.  install
 
